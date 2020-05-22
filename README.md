@@ -1,5 +1,8 @@
-# Trabajo-Fin-de-Grado-URJC
-Caracterización de Tráfico Rodado a partir de datos de movilidad de Autobuses Urbanos. Universidad Rey Juan Carlos Fuenlabrada.
+# Trabajo Fin de Grado Sergio Asperilla
+
+# Caracterización de Tráfico Rodado a partir de datos de movilidad de Autobuses Urbanos. Universidad Rey Juan Carlos Fuenlabrada.
+
+# RESUMEN
 
 El aumento demográfico se ha vuelto imparable, se espera un crecimiento de la población mundial de 2000 millones de personas en los próximos 30 años, cobrando gran importancia en las ciudades, donde se espera un aumento del 13\% en el mismo período de tiempo. Este incremento en las grandes urbes tiene como consecuencia una inflación de la demanda de la movilidad mediante el transporte vehicular, que viene acompañada de graves consecuencias: contaminación, pérdidas económicas, accidentes... El diseño de las vías, la gestión del tráfico o la planificación del transporte público se vuelven temas clave si se quieren reducir estos efectos negativos, y en este escenario, el uso de las tecnologías y las telecomunicaciones se vuelve indispensable.
 
